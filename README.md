@@ -395,9 +395,9 @@ This project is created as part of an internship assignment.
 ## 👨‍💻 Author
 
 **Your Name**
-- Email: your.email@example.com
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
+- Email: thilina.bandara623@gmail.com
+- GitHub: [@Thilina-Samarasinghe](https://github.com/Thilina-Samarasinghe)
+- LinkedIn: [Thilina Samarasinghe](https://www.linkedin.com/in/thilina-samarasinghe-a82145279/)
 
 ---
 
