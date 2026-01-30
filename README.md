@@ -425,6 +425,11 @@ This project is created as part of an internship assignment.
 ![Add Items Screenshot](screenshots/add-items.png)
 *Form for adding single or multiple items*
 
+### Deduction Item
+![Deduction Item Screenshot](screenshots/deduction.png)
+*Form for deducting items from the inventory with quantity and reason*
+
+
 ### Transaction History
 ![History Screenshot](screenshots/history.png)
 *Complete audit trail of item transactions*
